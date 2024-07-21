@@ -12,5 +12,5 @@ Text-editors used: VS Code
 
   ## Screenshots
 
-![Screenshot (28)]()
-![Screenshot (29)]()
+![Screenshot (28)](https://github.com/Pujash19/MovieSearch-usingJs/blob/main/movieSearch_js/main-page.png)
+![Screenshot (29)](https://github.com/Pujash19/MovieSearch-usingJs/blob/main/movieSearch_js/preview.png)
